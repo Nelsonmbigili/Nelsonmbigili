@@ -11,7 +11,7 @@ I love building software and exploring data to find useful insights.
 Expanding my skills of in demand technologies and working on projects using them.  
 
 ### I’m currently learning  
-More about software development, data science, and new programming tools.  
+React  
 
 ### I’m looking to collaborate on  
 Exciting and challenging projects that solve real-world problems.  
