@@ -1,4 +1,4 @@
-## Hi there, I'm Nelson Mbigili! 👋
+## Hi there, I'm Nelson Mbigili! 
 
 <!--
 **Nelsonmbigili/Nelsonmbigili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +23,6 @@ Anything related to programming, tech, or learning new skills!
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/nelson-mbigili-77412b20b/) or reach out via at: [mbigilinelson@nyu.edu](mailto:mbigilinelson@nyu.edu).  
 
 ### ⚡ Fun fact  
-I enjoy hiking and discovering new places—nothing beats a good adventure! 🌍🏔️
+I enjoy hiking and discovering new places. 
 
-Stay tuned for the projects I'll be sharing here!  
+Happy to connect for projects, adventure  or anything else!  
