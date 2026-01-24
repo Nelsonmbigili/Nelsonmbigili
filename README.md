@@ -8,7 +8,7 @@ I'm an aspiring Software Engineer currently pursing a bachelors degree in Comput
 I love building software and exploring data to find useful insights.  
 
 ### I’m currently working on  
-Expanding my skills of in demand technologies and working on projects using them.  
+--
 
 ### I’m currently learning  
 --
