@@ -20,7 +20,7 @@ Exciting and challenging projects that solve real-world problems.
 Anything related to programming, tech, or learning new skills!  
 
 ### 📫 How to reach me  
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/nelson-mbigili-77412b20b/) or reach out via at: [mbigilinelson@nyu.edu](mailto:mbigilinelson@nyu.edu).  
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/nelson-mbigili-77412b20b/).  
 
 ### ⚡ Fun fact  
 I enjoy hiking and discovering new places. 
