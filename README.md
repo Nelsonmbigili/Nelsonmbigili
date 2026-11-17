@@ -1,28 +1,9 @@
-## Hi there, I'm Nelson Mbigili! 
+## Hi, I'm Nelson Mbigili!
 
-<!--
-**Nelsonmbigili/Nelsonmbigili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I'm a Computer Science student at NYU Abu Dhabi. I love building software, exploring data, and finding useful insights to solve real-world problems.
 
-I'm an aspiring Software Engineer currently pursing a bachelors degree in Computer Science at New York University Abu Dhabi.
-I love building software and exploring data to find useful insights.  
+I'm always interested in learning, exploring new technologies, and collaborating on exciting projects.
 
-### I’m currently working on  
---
+Let's connect: LinkedIn
 
-### I’m currently learning  
---
-
-### I’m looking to collaborate on  
-Exciting and challenging projects that solve real-world problems.  
-
-### Ask me about  
-Anything related to programming, tech, or learning new skills!  
-
-### 📫 How to reach me  
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/nelson-mbigili-77412b20b/).  
-
-### ⚡ Fun fact  
-I enjoy hiking and discovering new places. 
-
-Happy to connect for projects, adventure  or anything else!  
+Happy to connect and collaborate!
